@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 import DataContext from "../DataContext";
 import { useContext } from "react";
 export default function Reset(){
@@ -10,6 +11,7 @@ export default function Reset(){
         <div className="white-back">
              <button className="choice_button" onClick={reset}>Reset</button>
         </div>
+
        
     )
 

@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 import DataContext from "../DataContext";
 import { useContext } from "react";
 
