@@ -4,7 +4,7 @@
 Tic tac Toe Game where you can play Multiplayer or with computer
 
 ## Demo
-https://tic-tac-mfow1d6dx-iamronakgupta.vercel.app/
+https://tic-tac-toe-chi-ten.vercel.app/
 
-![alt text](https://github.com/[iamronakgupta]/[tic-tac-toe]/blob/[main]/src/images/tic-tac-toe.PNG?raw=true)
+![alt text](https://github.com/[iamronakgupta]/[tic-tac-toe]/blob/[master]/src/images/tic-tac-toe.PNG?raw=true)
 
